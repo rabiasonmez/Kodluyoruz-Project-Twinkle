@@ -1,5 +1,5 @@
 
-# "Twinkle" One Page Website Template
+# "Twinkle" Website Template
 
 "Twinkle" is a one page design made by [Ashikul Islam](https://www.instagram.com/ashik_vision/).
 
