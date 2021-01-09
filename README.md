@@ -15,9 +15,9 @@
 
 [Bootstrap](http://getbootstrap.com/) by Twitter. Licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
-### Animate.css
+### AOS.js
 
-[Animate.css](https://daneden.github.io/animate.css/) by Dan Eden
+[Aos.js](https://github.com/michalsnik/aos) by Michał Sajnóg
 
 ### Font Awesome Icons 
 
