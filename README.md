@@ -6,7 +6,7 @@
 
 ### Design 
 
-[Figma Design Address](https://www.figma.com/file/K9mgt5mhnwRUTyEDEkgIzc/Marketing-Agency)
+[Figma Design Address](https://www.figma.com/file/K9mgt5mhnwRUTyEDEkgIzc/Marketing-Agency?node-id=0%3A1)
 
 [Demo](https://kodluyoruz-project-twinkle.netlify.app/)
 
