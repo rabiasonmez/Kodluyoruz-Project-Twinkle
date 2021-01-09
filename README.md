@@ -6,7 +6,7 @@
 
 ### Design 
 
-[Figma Design Address](https://www.uplabs.com/posts/marketing-agency-landing-page-888105da-762c-4b5a-9450-1766f5954437)
+[Figma Design Address](https://www.figma.com/file/K9mgt5mhnwRUTyEDEkgIzc/Marketing-Agency)
 
 [Demo](https://kodluyoruz-project-twinkle.netlify.app/)
 
